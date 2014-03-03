@@ -17,7 +17,7 @@ The easiest way to install this library is to simply clone this repo straight to
 
 ```
 cd ~/hardware/msp430/libraries
-git clone https://github.com/awhitehead/exositeEnergia.git Exosite
+git clone https://github.com/a-whitehead/exositeLaunchPad.git Exosite
 ```
 
 If you would rather not use the command line or you don't have git installed, click the download button on the right hand side of this page and choose to open the ZIP. Copy the contained folder to your Energia IDE's libraries folder.
