@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For Exosite
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Exosite	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+sendToCloud		KEYWORD2
+readFromCloud	KEYWORD2
+readFromCloud	KEYWORD2
+readWrite		KEYWORD2
+writeRead		KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
